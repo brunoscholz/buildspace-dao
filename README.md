@@ -6,7 +6,7 @@ Built with third-web and react. Third-web saves a lot o time and allows you to c
 
 ## DAOs
 
-DAOs are Decentralized Autonomous Organizations. ...
+DAOs are Decentralized Autonomous Organizations. They can be anything from a small community administration to large companies. There can be voting, roles, etc.
 
 ## NFT
 
@@ -20,7 +20,7 @@ You can check it at [OpenSea](https://opensea.io/assets/matic/0x3CD266509D127d0E
 
 Very rough and needs finishing touches, but its functionality is ok.
 
-[DEV Name Server](https://condo-dao.vercel.app/)
+[Condo Admin DAO](https://condo-dao.vercel.app/)
 
 ## Development
 
